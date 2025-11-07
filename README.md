@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Hiba-Malkan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in full stack development
+- 🌱 I’m currently learning web scraping using Selenium
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: I love reading!!
+- ⚡ Fun fact: I love reading!
 
 <!---
 Hiba-Malkan/Hiba-Malkan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
