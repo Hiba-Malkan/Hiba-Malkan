@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hiba-Malkan
-- 👀 I’m interested in full stack development
-- 🌱 I’m currently learning web scraping using Selenium
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... (if i write something, ill have to update it every hour)
+- 🌱 I’m currently learning PostGres. 
+- 💞️ I’m looking to collaborate on social imapact projects.
 - 📫 How to reach me ...
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I love reading!
