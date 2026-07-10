@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Hiba-Malkan
-- 👀 I’m interested in ... 
-- 🌱 I’m currently learning ... 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: @hiba.malkan@gmail.com
-- 😄 Pronouns: She/her
-- ⚡ Fun fact: 
+
 
 <!---
 Hiba-Malkan/Hiba-Malkan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
